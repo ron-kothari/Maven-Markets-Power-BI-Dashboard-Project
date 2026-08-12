@@ -1,8 +1,9 @@
 # Maven Markets PowerBI Dashboard Project
 
-[📈📊**View the LIVE PowerBI Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzlkY2I5Y2YtMGU1My00YjFiLTg3MTctMDY2ZDVkMGQ4ODE1IiwidCI6IjUyYWJlYWQzLTYzNjktNGFmNi1iOTY0LTMwYzJhYzE3ODZkNiIsImMiOjl9)
 
 A dashboard for Maven Markets, a fictional supermarket chain. Page one covers topline KPIs, a product matrix with transactions and profit margins, and a regional sales map. Page two breaks down top customers, their order history, and revenue contribution, plus a store comparison chart. Same build process end to end, Power Query, data modelling, DAX, and full interactivity.
+
+[📈📊**View the LIVE PowerBI Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzlkY2I5Y2YtMGU1My00YjFiLTg3MTctMDY2ZDVkMGQ4ODE1IiwidCI6IjUyYWJlYWQzLTYzNjktNGFmNi1iOTY0LTMwYzJhYzE3ODZkNiIsImMiOjl9)
 
 ## 📝 Overview
 
